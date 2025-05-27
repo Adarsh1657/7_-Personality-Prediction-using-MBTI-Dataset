@@ -1,6 +1,12 @@
 # 🧠 Personality Prediction using MBTI Dataset
 
 This project focuses on predicting personality types based on textual data using the **MBTI (Myers-Briggs Type Indicator)** dataset. It leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to classify users into one of 16 MBTI personality types.
+## 👥 Group Members
+- Anwesha Singhal
+- Adarsh Kumar  
+- Animesh Pratap Singh  
+- Akul Sharma
+- Ashish Gupta
 
 ## 📁 Dataset
 The dataset used is the [MBTI 1.0 dataset](https://www.kaggle.com/datasnaek/mbti-type) which contains:
